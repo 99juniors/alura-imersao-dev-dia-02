@@ -43,6 +43,11 @@ body {
   background-color: green;
 }
 
+.resultado-bitcoin {
+  background-color: goldenrod;
+  color: black;
+}
+
 input {
   margin: 12px;
   padding: 6px;
